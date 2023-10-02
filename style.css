@@ -1,0 +1,35 @@
+h1{
+  font-size: 45px;
+  text-decoration: overline;
+  text-align: center;
+}
+
+.animalImage{
+  border-style: solid;
+  border-width: 5px;
+  border-radius: 3px;
+  border-color: rgb(0, 0, 0);
+}
+
+h3{
+  font-weight: bold;
+  font-variant: small-caps;
+  font-size: 25px;
+  color: rgb(2, 2, 2);
+  text-decoration: underline;
+}
+
+hr{
+  height: 2px;
+  color: black;
+  background-color: black;
+}
+
+p{
+  font-weight: bold;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+li{
+  font-weight: bolder;
+}
